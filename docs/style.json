@@ -1,0 +1,9 @@
+{
+    "version":8,
+"sources":{
+"r": {"type": "raster","tiles": ["https://ubukawa.github.io/wallawalla/20221011/{z}/{x}/{y}.png"],"attribution": "Copernicus Sentinel data (2022, EUROPEAN COMMISSION).<br>Observed on 2022-10-11","tileSize": 256,"maxzoom": 15}},
+"layers":[
+{"id": "sentinel2","type":"raster","source":"r"}
+],
+"center":[-118.7159149, 46.1254455]
+},
