@@ -5,5 +5,5 @@
 "layers":[
 {"id": "sentinel2","type":"raster","source":"r"}
 ],
-"center":[-118.7159149, 46.1254455]
+"center":[-117.998, 46.16]
 },
